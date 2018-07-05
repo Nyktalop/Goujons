@@ -1,0 +1,6455 @@
+
+
+poisson 1 entre en contact avec 2 a 12.233333333333333 sec
+poisson 1 entre en contact avec 2 a 14.9 sec
+poisson 1 entre en contact avec 2 a 15.933333333333334 sec
+poisson 1 entre en contact avec 3 a 19.6 sec
+poisson 1 entre en contact avec 2 a 20.766666666666666 sec
+poisson 1 entre en contact avec 2 a 24.966666666666665 sec
+poisson 1 entre en contact avec 3 a 25.0 sec
+poisson 1 entre en contact avec 5 a 31.566666666666666 sec
+poisson 1 entre en contact avec 5 a 33.233333333333334 sec
+poisson 1 entre en contact avec 2 a 33.43333333333333 sec
+poisson 1 entre en contact avec 2 a 34.833333333333336 sec
+poisson 1 entre en contact avec 2 a 35.3 sec
+poisson 1 entre en contact avec 3 a 35.8 sec
+poisson 1 entre en contact avec 5 a 38.2 sec
+poisson 1 entre en contact avec 2 a 41.166666666666664 sec
+poisson 1 entre en contact avec 4 a 42.56666666666667 sec
+poisson 1 entre en contact avec 3 a 42.9 sec
+poisson 1 entre en contact avec 2 a 44.166666666666664 sec
+poisson 1 entre en contact avec 3 a 44.166666666666664 sec
+poisson 1 entre en contact avec 4 a 44.166666666666664 sec
+poisson 1 entre en contact avec 5 a 44.6 sec
+poisson 1 entre en contact avec 3 a 52.666666666666664 sec
+poisson 1 entre en contact avec 4 a 54.333333333333336 sec
+poisson 1 entre en contact avec 3 a 54.53333333333333 sec
+poisson 1 entre en contact avec 2 a 55.2 sec
+
+
+poisson 2 entre en contact avec 3 a 4.066666666666666 sec
+poisson 2 entre en contact avec 3 a 7.0 sec
+poisson 2 entre en contact avec 1 a 12.233333333333333 sec
+poisson 2 entre en contact avec 3 a 12.966666666666667 sec
+poisson 2 entre en contact avec 1 a 14.9 sec
+poisson 2 entre en contact avec 1 a 15.933333333333334 sec
+poisson 2 entre en contact avec 3 a 17.066666666666666 sec
+poisson 2 entre en contact avec 3 a 20.566666666666666 sec
+poisson 2 entre en contact avec 1 a 20.766666666666666 sec
+poisson 2 entre en contact avec 1 a 24.966666666666665 sec
+poisson 2 entre en contact avec 5 a 26.533333333333335 sec
+poisson 2 entre en contact avec 1 a 33.43333333333333 sec
+poisson 2 entre en contact avec 5 a 33.5 sec
+poisson 2 entre en contact avec 3 a 33.666666666666664 sec
+poisson 2 entre en contact avec 1 a 34.833333333333336 sec
+poisson 2 entre en contact avec 1 a 35.3 sec
+poisson 2 entre en contact avec 4 a 38.13333333333333 sec
+poisson 2 entre en contact avec 3 a 40.833333333333336 sec
+poisson 2 entre en contact avec 1 a 41.166666666666664 sec
+poisson 2 entre en contact avec 5 a 41.233333333333334 sec
+poisson 2 entre en contact avec 1 a 44.166666666666664 sec
+poisson 2 entre en contact avec 4 a 45.233333333333334 sec
+poisson 2 entre en contact avec 3 a 53.0 sec
+poisson 2 entre en contact avec 4 a 54.56666666666667 sec
+poisson 2 entre en contact avec 1 a 55.2 sec
+poisson 2 entre en contact avec 5 a 59.4 sec
+
+
+poisson 3 entre en contact avec 2 a 4.066666666666666 sec
+poisson 3 entre en contact avec 2 a 7.0 sec
+poisson 3 entre en contact avec 2 a 12.966666666666667 sec
+poisson 3 entre en contact avec 2 a 17.066666666666666 sec
+poisson 3 entre en contact avec 1 a 19.6 sec
+poisson 3 entre en contact avec 2 a 20.566666666666666 sec
+poisson 3 entre en contact avec 1 a 25.0 sec
+poisson 3 entre en contact avec 5 a 31.766666666666666 sec
+poisson 3 entre en contact avec 2 a 33.666666666666664 sec
+poisson 3 entre en contact avec 1 a 35.8 sec
+poisson 3 entre en contact avec 5 a 40.63333333333333 sec
+poisson 3 entre en contact avec 2 a 40.833333333333336 sec
+poisson 3 entre en contact avec 4 a 42.36666666666667 sec
+poisson 3 entre en contact avec 1 a 42.9 sec
+poisson 3 entre en contact avec 1 a 44.166666666666664 sec
+poisson 3 entre en contact avec 1 a 52.666666666666664 sec
+poisson 3 entre en contact avec 2 a 53.0 sec
+poisson 3 entre en contact avec 1 a 54.53333333333333 sec
+poisson 3 entre en contact avec 4 a 54.53333333333333 sec
+poisson 3 entre en contact avec 5 a 58.2 sec
+
+
+poisson 4 entre en contact avec 5 a 4.766666666666667 sec
+poisson 4 entre en contact avec 5 a 8.033333333333333 sec
+poisson 4 entre en contact avec 5 a 13.2 sec
+poisson 4 entre en contact avec 2 a 38.13333333333333 sec
+poisson 4 entre en contact avec 3 a 42.36666666666667 sec
+poisson 4 entre en contact avec 1 a 42.56666666666667 sec
+poisson 4 entre en contact avec 1 a 44.166666666666664 sec
+poisson 4 entre en contact avec 2 a 45.233333333333334 sec
+poisson 4 entre en contact avec 5 a 45.43333333333333 sec
+poisson 4 entre en contact avec 1 a 54.333333333333336 sec
+poisson 4 entre en contact avec 3 a 54.53333333333333 sec
+poisson 4 entre en contact avec 2 a 54.56666666666667 sec
+
+
+poisson 5 entre en contact avec 4 a 4.766666666666667 sec
+poisson 5 entre en contact avec 4 a 8.033333333333333 sec
+poisson 5 entre en contact avec 4 a 13.2 sec
+poisson 5 entre en contact avec 2 a 26.533333333333335 sec
+poisson 5 entre en contact avec 1 a 31.566666666666666 sec
+poisson 5 entre en contact avec 3 a 31.766666666666666 sec
+poisson 5 entre en contact avec 1 a 33.233333333333334 sec
+poisson 5 entre en contact avec 2 a 33.5 sec
+poisson 5 entre en contact avec 1 a 38.2 sec
+poisson 5 entre en contact avec 3 a 40.63333333333333 sec
+poisson 5 entre en contact avec 2 a 41.233333333333334 sec
+poisson 5 entre en contact avec 1 a 44.6 sec
+poisson 5 entre en contact avec 4 a 45.43333333333333 sec
+poisson 5 entre en contact avec 3 a 58.2 sec
+poisson 5 entre en contact avec 2 a 59.4 sec
+
+
+
+	3.77 secondes	
+Contact 1 , 2
+
+	3.8 secondes	
+Contact 1 , 2
+
+	3.83 secondes	
+Contact 1 , 2
+
+	3.87 secondes	
+Contact 1 , 2
+
+	3.9 secondes	
+Contact 1 , 2
+
+	3.93 secondes	
+Contact 1 , 2
+
+	3.97 secondes	
+Contact 1 , 2
+
+	4.0 secondes	
+Contact 1 , 2
+
+	4.03 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	4.07 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	4.1 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	4.13 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	4.17 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	4.2 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	4.23 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	4.27 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	4.3 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	4.33 secondes	
+Contact 1 , 2
+
+	4.37 secondes	
+Contact 1 , 2
+
+	4.4 secondes	
+Contact 1 , 2
+
+	4.43 secondes	
+Contact 1 , 2
+
+	4.47 secondes	
+Contact 1 , 2
+
+	4.5 secondes	
+Contact 1 , 2
+
+	4.53 secondes	
+Contact 1 , 2
+
+	4.57 secondes	
+Contact 1 , 2
+
+	4.6 secondes	
+Contact 1 , 2
+
+	4.63 secondes	
+Contact 1 , 2
+
+	4.67 secondes	
+Contact 1 , 2
+
+	4.7 secondes	
+Contact 1 , 2
+
+	4.73 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	4.77 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	4.8 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	4.83 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	4.87 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	4.9 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	4.93 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	4.97 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.0 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.03 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.07 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.1 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.13 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.17 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.2 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.23 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.27 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.3 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.33 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.37 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.4 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.43 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.47 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.5 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.53 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.57 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.6 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.63 secondes	
+Contact 1 , 2
+Contact 4 , 5
+
+	5.67 secondes	
+Contact 1 , 2
+
+	5.7 secondes	
+Contact 1 , 2
+
+	5.73 secondes	
+Contact 1 , 2
+
+	5.77 secondes	
+Contact 1 , 2
+
+	5.8 secondes	
+Contact 1 , 2
+
+	5.83 secondes	
+Contact 1 , 2
+
+	5.87 secondes	
+Contact 1 , 2
+
+	5.9 secondes	
+Contact 1 , 2
+poisson 4 change de zone F -> C
+
+	5.93 secondes	
+Contact 1 , 2
+
+	5.97 secondes	
+Contact 1 , 2
+
+	6.0 secondes	
+Contact 1 , 2
+
+	6.03 secondes	
+Contact 1 , 2
+
+	6.07 secondes	
+Contact 1 , 2
+
+	6.1 secondes	
+Contact 1 , 2
+
+	6.13 secondes	
+Contact 1 , 2
+
+	6.17 secondes	
+Contact 1 , 2
+
+	6.2 secondes	
+Contact 1 , 2
+
+	6.23 secondes	
+Contact 1 , 2
+
+	6.27 secondes	
+Contact 1 , 2
+
+	6.3 secondes	
+Contact 1 , 2
+
+	6.33 secondes	
+Contact 1 , 2
+
+	6.37 secondes	
+Contact 1 , 2
+
+	6.4 secondes	
+Contact 1 , 2
+
+	6.43 secondes	
+Contact 1 , 2
+
+	6.47 secondes	
+Contact 1 , 2
+
+	6.5 secondes	
+Contact 1 , 2
+
+	6.53 secondes	
+Contact 1 , 2
+
+	6.57 secondes	
+Contact 1 , 2
+
+	6.6 secondes	
+Contact 1 , 2
+
+	6.63 secondes	
+Contact 1 , 2
+
+	6.67 secondes	
+Contact 1 , 2
+
+	6.7 secondes	
+Contact 1 , 2
+poisson 5 change de zone F -> C
+
+	6.73 secondes	
+Contact 1 , 2
+
+	6.77 secondes	
+Contact 1 , 2
+
+	6.8 secondes	
+Contact 1 , 2
+
+	6.83 secondes	
+Contact 1 , 2
+
+	6.87 secondes	
+Contact 1 , 2
+
+	6.9 secondes	
+Contact 1 , 2
+
+	6.93 secondes	
+Contact 1 , 2
+
+	6.97 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	7.0 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	7.03 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	7.07 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	7.1 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	7.13 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	7.17 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	7.2 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	7.23 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	7.27 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	7.3 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	7.33 secondes	
+Contact 2 , 3
+
+	7.37 secondes	
+Contact 2 , 3
+
+	7.4 secondes	
+Contact 2 , 3
+
+	7.43 secondes	
+Contact 2 , 3
+
+	7.47 secondes	
+Contact 2 , 3
+
+	7.5 secondes	
+Contact 2 , 3
+
+	7.53 secondes	
+Contact 2 , 3
+
+	7.57 secondes	
+Contact 2 , 3
+
+	7.6 secondes	
+Contact 2 , 3
+
+	7.63 secondes	
+Contact 2 , 3
+
+	7.67 secondes	
+Contact 2 , 3
+
+	7.7 secondes	
+Contact 2 , 3
+
+	7.73 secondes	
+Contact 2 , 3
+
+	7.77 secondes	
+Contact 2 , 3
+
+	7.8 secondes	
+Contact 2 , 3
+
+	7.83 secondes	
+Contact 2 , 3
+
+	7.87 secondes	
+Contact 2 , 3
+
+	7.9 secondes	
+Contact 2 , 3
+
+	7.93 secondes	
+Contact 2 , 3
+
+	7.97 secondes	
+Contact 2 , 3
+
+	8.0 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.03 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.07 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.1 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.13 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.17 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.2 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.23 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.27 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.3 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.33 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.37 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.4 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.43 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.47 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.5 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.53 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.57 secondes	
+poisson 1 change de zone A -> D
+Contact 2 , 3
+Contact 4 , 5
+
+	8.6 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.63 secondes	
+Contact 2 , 3
+
+	8.67 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.7 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.73 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.77 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.8 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.83 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.87 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.9 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.93 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	8.97 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.0 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.03 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.07 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.1 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.13 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.17 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.2 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.23 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.27 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.3 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.33 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.37 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.4 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.43 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.47 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.5 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.53 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.57 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.6 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.63 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.67 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.7 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.73 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.77 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.8 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	9.83 secondes	
+Contact 4 , 5
+
+	9.87 secondes	
+Contact 4 , 5
+
+	9.9 secondes	
+Contact 4 , 5
+
+	9.93 secondes	
+Contact 4 , 5
+
+	9.97 secondes	
+Contact 4 , 5
+
+	10.0 secondes	
+Contact 4 , 5
+
+	10.03 secondes	
+Contact 4 , 5
+
+	10.07 secondes	
+Contact 4 , 5
+
+	10.1 secondes	
+Contact 4 , 5
+
+	10.13 secondes	
+Contact 4 , 5
+
+	10.17 secondes	
+Contact 4 , 5
+
+	10.2 secondes	
+Contact 4 , 5
+
+	10.23 secondes	
+Contact 4 , 5
+
+	10.27 secondes	
+Contact 4 , 5
+
+	10.3 secondes	
+Contact 4 , 5
+
+	10.33 secondes	
+Contact 4 , 5
+
+	10.37 secondes	
+Contact 4 , 5
+
+	10.4 secondes	
+Contact 4 , 5
+
+	10.43 secondes	
+Contact 4 , 5
+
+	10.47 secondes	
+Contact 4 , 5
+
+	10.5 secondes	
+Contact 4 , 5
+
+	10.53 secondes	
+Contact 4 , 5
+
+	10.57 secondes	
+Contact 4 , 5
+
+	10.6 secondes	
+poisson 2 change de zone A -> D
+
+	10.63 secondes	
+
+	10.67 secondes	
+
+	10.7 secondes	
+
+	10.73 secondes	
+
+	10.77 secondes	
+
+	10.8 secondes	
+
+	10.83 secondes	
+
+	10.87 secondes	
+
+	10.9 secondes	
+
+	10.93 secondes	
+
+	10.97 secondes	
+
+	11.0 secondes	
+
+	11.03 secondes	
+
+	11.07 secondes	
+
+	11.1 secondes	
+
+	11.13 secondes	
+
+	11.17 secondes	
+
+	11.2 secondes	
+
+	11.23 secondes	
+
+	11.27 secondes	
+
+	11.3 secondes	
+
+	11.33 secondes	
+poisson 3 change de zone A -> D
+
+	11.37 secondes	
+
+	11.4 secondes	
+
+	11.43 secondes	
+
+	11.47 secondes	
+
+	11.5 secondes	
+
+	11.53 secondes	
+
+	11.57 secondes	
+
+	11.6 secondes	
+
+	11.63 secondes	
+
+	11.67 secondes	
+
+	11.7 secondes	
+
+	11.73 secondes	
+
+	11.77 secondes	
+
+	11.8 secondes	
+
+	11.83 secondes	
+
+	11.87 secondes	
+
+	11.9 secondes	
+
+	11.93 secondes	
+
+	11.97 secondes	
+
+	12.0 secondes	
+
+	12.03 secondes	
+
+	12.07 secondes	
+
+	12.1 secondes	
+
+	12.13 secondes	
+
+	12.17 secondes	
+
+	12.2 secondes	
+Contact 1 , 2
+
+	12.23 secondes	
+Contact 1 , 2
+
+	12.27 secondes	
+Contact 1 , 2
+
+	12.3 secondes	
+Contact 1 , 2
+
+	12.33 secondes	
+Contact 1 , 2
+
+	12.37 secondes	
+Contact 1 , 2
+
+	12.4 secondes	
+Contact 1 , 2
+
+	12.43 secondes	
+Contact 1 , 2
+
+	12.47 secondes	
+Contact 1 , 2
+
+	12.5 secondes	
+Contact 1 , 2
+
+	12.53 secondes	
+Contact 1 , 2
+
+	12.57 secondes	
+Contact 1 , 2
+
+	12.6 secondes	
+Contact 1 , 2
+
+	12.63 secondes	
+Contact 1 , 2
+
+	12.67 secondes	
+Contact 1 , 2
+
+	12.7 secondes	
+Contact 1 , 2
+
+	12.73 secondes	
+Contact 1 , 2
+
+	12.77 secondes	
+Contact 1 , 2
+
+	12.8 secondes	
+Contact 1 , 2
+
+	12.83 secondes	
+Contact 1 , 2
+
+	12.87 secondes	
+Contact 1 , 2
+
+	12.9 secondes	
+Contact 1 , 2
+
+	12.93 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	12.97 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	13.0 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	13.03 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	13.07 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	13.1 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	13.13 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	13.17 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	13.2 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	13.23 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	13.27 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	13.3 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	13.33 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	13.37 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	13.4 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	13.43 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	13.47 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	13.5 secondes	
+Contact 2 , 3
+Contact 4 , 5
+
+	13.53 secondes	
+Contact 2 , 3
+
+	13.57 secondes	
+Contact 2 , 3
+
+	13.6 secondes	
+Contact 2 , 3
+
+	13.63 secondes	
+Contact 2 , 3
+
+	13.67 secondes	
+Contact 2 , 3
+
+	13.7 secondes	
+Contact 2 , 3
+
+	13.73 secondes	
+Contact 2 , 3
+
+	13.77 secondes	
+Contact 2 , 3
+
+	13.8 secondes	
+Contact 2 , 3
+
+	13.83 secondes	
+Contact 2 , 3
+
+	13.87 secondes	
+Contact 2 , 3
+
+	13.9 secondes	
+Contact 2 , 3
+
+	13.93 secondes	
+Contact 2 , 3
+
+	13.97 secondes	
+Contact 2 , 3
+
+	14.0 secondes	
+Contact 2 , 3
+
+	14.03 secondes	
+Contact 2 , 3
+
+	14.07 secondes	
+Contact 2 , 3
+
+	14.1 secondes	
+Contact 2 , 3
+
+	14.13 secondes	
+Contact 2 , 3
+
+	14.17 secondes	
+Contact 2 , 3
+
+	14.2 secondes	
+Contact 2 , 3
+
+	14.23 secondes	
+Contact 2 , 3
+
+	14.27 secondes	
+Contact 2 , 3
+
+	14.3 secondes	
+Contact 2 , 3
+
+	14.33 secondes	
+Contact 2 , 3
+
+	14.37 secondes	
+Contact 2 , 3
+
+	14.4 secondes	
+Contact 2 , 3
+
+	14.43 secondes	
+Contact 2 , 3
+
+	14.47 secondes	
+Contact 2 , 3
+
+	14.5 secondes	
+Contact 2 , 3
+
+	14.53 secondes	
+Contact 2 , 3
+
+	14.57 secondes	
+Contact 2 , 3
+
+	14.6 secondes	
+Contact 2 , 3
+
+	14.63 secondes	
+Contact 2 , 3
+
+	14.67 secondes	
+Contact 2 , 3
+
+	14.7 secondes	
+Contact 2 , 3
+
+	14.73 secondes	
+Contact 2 , 3
+
+	14.77 secondes	
+Contact 2 , 3
+
+	14.8 secondes	
+Contact 2 , 3
+
+	14.83 secondes	
+Contact 2 , 3
+
+	14.87 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	14.9 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	14.93 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	14.97 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	15.0 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	15.03 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	15.07 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	15.1 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	15.13 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	15.17 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	15.2 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	15.23 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	15.27 secondes	
+Contact 1 , 2
+
+	15.3 secondes	
+Contact 1 , 2
+
+	15.33 secondes	
+Contact 1 , 2
+
+	15.37 secondes	
+Contact 1 , 2
+
+	15.4 secondes	
+Contact 1 , 2
+
+	15.43 secondes	
+Contact 1 , 2
+
+	15.47 secondes	
+Contact 1 , 2
+
+	15.5 secondes	
+
+	15.53 secondes	
+
+	15.57 secondes	
+
+	15.6 secondes	
+
+	15.63 secondes	
+
+	15.67 secondes	
+
+	15.7 secondes	
+
+	15.73 secondes	
+
+	15.77 secondes	
+
+	15.8 secondes	
+
+	15.83 secondes	
+
+	15.87 secondes	
+
+	15.9 secondes	
+Contact 1 , 2
+
+	15.93 secondes	
+Contact 1 , 2
+
+	15.97 secondes	
+Contact 1 , 2
+
+	16.0 secondes	
+Contact 1 , 2
+
+	16.03 secondes	
+Contact 1 , 2
+
+	16.07 secondes	
+Contact 1 , 2
+
+	16.1 secondes	
+Contact 1 , 2
+
+	16.13 secondes	
+Contact 1 , 2
+
+	16.17 secondes	
+Contact 1 , 2
+
+	16.2 secondes	
+Contact 1 , 2
+
+	16.23 secondes	
+Contact 1 , 2
+
+	16.27 secondes	
+Contact 1 , 2
+
+	16.3 secondes	
+Contact 1 , 2
+
+	16.33 secondes	
+Contact 1 , 2
+
+	16.37 secondes	
+Contact 1 , 2
+
+	16.4 secondes	
+Contact 1 , 2
+
+	16.43 secondes	
+Contact 1 , 2
+
+	16.47 secondes	
+Contact 1 , 2
+
+	16.5 secondes	
+Contact 1 , 2
+
+	16.53 secondes	
+Contact 1 , 2
+
+	16.57 secondes	
+Contact 1 , 2
+
+	16.6 secondes	
+Contact 1 , 2
+
+	16.63 secondes	
+Contact 1 , 2
+
+	16.67 secondes	
+Contact 1 , 2
+
+	16.7 secondes	
+Contact 1 , 2
+
+	16.73 secondes	
+Contact 1 , 2
+
+	16.77 secondes	
+Contact 1 , 2
+
+	16.8 secondes	
+Contact 1 , 2
+
+	16.83 secondes	
+Contact 1 , 2
+
+	16.87 secondes	
+Contact 1 , 2
+
+	16.9 secondes	
+Contact 1 , 2
+
+	16.93 secondes	
+Contact 1 , 2
+poisson 4 change de zone C -> B
+
+	16.97 secondes	
+Contact 1 , 2
+
+	17.0 secondes	
+Contact 1 , 2
+
+	17.03 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.07 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.1 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.13 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.17 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.2 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.23 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.27 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.3 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.33 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.37 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.4 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.43 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.47 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.5 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.53 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.57 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.6 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.63 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.67 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.7 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.73 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.77 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.8 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.83 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.87 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.9 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.93 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	17.97 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	18.0 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	18.03 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	18.07 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	18.1 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	18.13 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	18.17 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	18.2 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	18.23 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	18.27 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	18.3 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	18.33 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	18.37 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	18.4 secondes	
+Contact 2 , 3
+
+	18.43 secondes	
+Contact 2 , 3
+
+	18.47 secondes	
+Contact 2 , 3
+
+	18.5 secondes	
+Contact 2 , 3
+
+	18.53 secondes	
+Contact 2 , 3
+
+	18.57 secondes	
+Contact 2 , 3
+
+	18.6 secondes	
+Contact 2 , 3
+
+	18.63 secondes	
+Contact 2 , 3
+
+	18.67 secondes	
+Contact 2 , 3
+
+	18.7 secondes	
+Contact 2 , 3
+
+	18.73 secondes	
+Contact 2 , 3
+
+	18.77 secondes	
+Contact 2 , 3
+
+	18.8 secondes	
+Contact 2 , 3
+
+	18.83 secondes	
+Contact 2 , 3
+
+	18.87 secondes	
+Contact 2 , 3
+
+	18.9 secondes	
+Contact 2 , 3
+
+	18.93 secondes	
+Contact 2 , 3
+
+	18.97 secondes	
+Contact 2 , 3
+
+	19.0 secondes	
+Contact 2 , 3
+
+	19.03 secondes	
+Contact 2 , 3
+
+	19.07 secondes	
+Contact 2 , 3
+
+	19.1 secondes	
+Contact 2 , 3
+
+	19.13 secondes	
+Contact 2 , 3
+
+	19.17 secondes	
+Contact 2 , 3
+
+	19.2 secondes	
+Contact 2 , 3
+
+	19.23 secondes	
+Contact 2 , 3
+
+	19.27 secondes	
+Contact 2 , 3
+
+	19.3 secondes	
+Contact 2 , 3
+
+	19.33 secondes	
+Contact 2 , 3
+
+	19.37 secondes	
+Contact 2 , 3
+
+	19.4 secondes	
+Contact 2 , 3
+
+	19.43 secondes	
+Contact 2 , 3
+
+	19.47 secondes	
+Contact 2 , 3
+
+	19.5 secondes	
+Contact 2 , 3
+
+	19.53 secondes	
+Contact 2 , 3
+
+	19.57 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	19.6 secondes	
+Contact 1 , 3
+Contact 2 , 3
+poisson 4 change de zone B -> A
+
+	19.63 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	19.67 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	19.7 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	19.73 secondes	
+Contact 1 , 3
+
+	19.77 secondes	
+Contact 1 , 3
+
+	19.8 secondes	
+Contact 1 , 3
+
+	19.83 secondes	
+Contact 1 , 3
+
+	19.87 secondes	
+Contact 1 , 3
+
+	19.9 secondes	
+Contact 1 , 3
+
+	19.93 secondes	
+Contact 1 , 3
+
+	19.97 secondes	
+Contact 1 , 3
+
+	20.0 secondes	
+Contact 1 , 3
+
+	20.03 secondes	
+Contact 1 , 3
+
+	20.07 secondes	
+Contact 1 , 3
+
+	20.1 secondes	
+Contact 1 , 3
+
+	20.13 secondes	
+Contact 1 , 3
+
+	20.17 secondes	
+Contact 1 , 3
+
+	20.2 secondes	
+Contact 1 , 3
+
+	20.23 secondes	
+Contact 1 , 3
+
+	20.27 secondes	
+Contact 1 , 3
+
+	20.3 secondes	
+Contact 1 , 3
+
+	20.33 secondes	
+Contact 1 , 3
+
+	20.37 secondes	
+
+	20.4 secondes	
+
+	20.43 secondes	
+
+	20.47 secondes	
+
+	20.5 secondes	
+
+	20.53 secondes	
+Contact 2 , 3
+
+	20.57 secondes	
+Contact 2 , 3
+
+	20.6 secondes	
+Contact 2 , 3
+
+	20.63 secondes	
+Contact 2 , 3
+
+	20.67 secondes	
+Contact 2 , 3
+
+	20.7 secondes	
+Contact 2 , 3
+
+	20.73 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	20.77 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	20.8 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	20.83 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	20.87 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	20.9 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	20.93 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	20.97 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.0 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.03 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.07 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.1 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.13 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.17 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.2 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.23 secondes	
+Contact 1 , 2
+Contact 2 , 3
+poisson 5 change de zone C -> F
+
+	21.27 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.3 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.33 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.37 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.4 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.43 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.47 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.5 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.53 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.57 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.6 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.63 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	21.67 secondes	
+Contact 2 , 3
+
+	21.7 secondes	
+Contact 2 , 3
+
+	21.73 secondes	
+Contact 2 , 3
+
+	21.77 secondes	
+Contact 2 , 3
+
+	21.8 secondes	
+Contact 2 , 3
+
+	21.83 secondes	
+Contact 2 , 3
+
+	21.87 secondes	
+Contact 2 , 3
+
+	21.9 secondes	
+Contact 2 , 3
+
+	21.93 secondes	
+Contact 2 , 3
+
+	21.97 secondes	
+Contact 2 , 3
+
+	22.0 secondes	
+Contact 2 , 3
+
+	22.03 secondes	
+Contact 2 , 3
+
+	22.07 secondes	
+Contact 2 , 3
+
+	22.1 secondes	
+Contact 2 , 3
+
+	22.13 secondes	
+Contact 2 , 3
+
+	22.17 secondes	
+Contact 2 , 3
+
+	22.2 secondes	
+Contact 2 , 3
+
+	22.23 secondes	
+Contact 2 , 3
+
+	22.27 secondes	
+Contact 2 , 3
+
+	22.3 secondes	
+Contact 2 , 3
+
+	22.33 secondes	
+Contact 2 , 3
+
+	22.37 secondes	
+Contact 2 , 3
+
+	22.4 secondes	
+Contact 2 , 3
+
+	22.43 secondes	
+Contact 2 , 3
+
+	22.47 secondes	
+Contact 2 , 3
+
+	22.5 secondes	
+Contact 2 , 3
+
+	22.53 secondes	
+Contact 2 , 3
+
+	22.57 secondes	
+Contact 2 , 3
+
+	22.6 secondes	
+Contact 2 , 3
+
+	22.63 secondes	
+Contact 2 , 3
+
+	22.67 secondes	
+Contact 2 , 3
+
+	22.7 secondes	
+Contact 2 , 3
+
+	22.73 secondes	
+Contact 2 , 3
+
+	22.77 secondes	
+Contact 2 , 3
+
+	22.8 secondes	
+Contact 2 , 3
+
+	22.83 secondes	
+Contact 2 , 3
+
+	22.87 secondes	
+Contact 2 , 3
+
+	22.9 secondes	
+Contact 2 , 3
+
+	22.93 secondes	
+Contact 2 , 3
+
+	22.97 secondes	
+Contact 2 , 3
+
+	23.0 secondes	
+Contact 2 , 3
+
+	23.03 secondes	
+Contact 2 , 3
+
+	23.07 secondes	
+Contact 2 , 3
+
+	23.1 secondes	
+Contact 2 , 3
+
+	23.13 secondes	
+Contact 2 , 3
+
+	23.17 secondes	
+Contact 2 , 3
+
+	23.2 secondes	
+Contact 2 , 3
+
+	23.23 secondes	
+Contact 2 , 3
+
+	23.27 secondes	
+Contact 2 , 3
+
+	23.3 secondes	
+Contact 2 , 3
+
+	23.33 secondes	
+Contact 2 , 3
+
+	23.37 secondes	
+Contact 2 , 3
+
+	23.4 secondes	
+Contact 2 , 3
+
+	23.43 secondes	
+Contact 2 , 3
+
+	23.47 secondes	
+Contact 2 , 3
+
+	23.5 secondes	
+Contact 2 , 3
+
+	23.53 secondes	
+Contact 2 , 3
+
+	23.57 secondes	
+Contact 2 , 3
+
+	23.6 secondes	
+Contact 2 , 3
+
+	23.63 secondes	
+Contact 2 , 3
+
+	23.67 secondes	
+Contact 2 , 3
+
+	23.7 secondes	
+Contact 2 , 3
+
+	23.73 secondes	
+Contact 2 , 3
+
+	23.77 secondes	
+Contact 2 , 3
+
+	23.8 secondes	
+Contact 2 , 3
+
+	23.83 secondes	
+Contact 2 , 3
+
+	23.87 secondes	
+Contact 2 , 3
+
+	23.9 secondes	
+Contact 2 , 3
+
+	23.93 secondes	
+Contact 2 , 3
+
+	23.97 secondes	
+Contact 2 , 3
+
+	24.0 secondes	
+Contact 2 , 3
+
+	24.03 secondes	
+Contact 2 , 3
+
+	24.07 secondes	
+Contact 2 , 3
+
+	24.1 secondes	
+Contact 2 , 3
+
+	24.13 secondes	
+Contact 2 , 3
+
+	24.17 secondes	
+Contact 2 , 3
+
+	24.2 secondes	
+Contact 2 , 3
+
+	24.23 secondes	
+Contact 2 , 3
+
+	24.27 secondes	
+Contact 2 , 3
+
+	24.3 secondes	
+Contact 2 , 3
+
+	24.33 secondes	
+Contact 2 , 3
+
+	24.37 secondes	
+Contact 2 , 3
+
+	24.4 secondes	
+Contact 2 , 3
+
+	24.43 secondes	
+Contact 2 , 3
+
+	24.47 secondes	
+Contact 2 , 3
+
+	24.5 secondes	
+Contact 2 , 3
+
+	24.53 secondes	
+Contact 2 , 3
+
+	24.57 secondes	
+Contact 2 , 3
+
+	24.6 secondes	
+Contact 2 , 3
+
+	24.63 secondes	
+Contact 2 , 3
+
+	24.67 secondes	
+Contact 2 , 3
+
+	24.7 secondes	
+Contact 2 , 3
+
+	24.73 secondes	
+Contact 2 , 3
+
+	24.77 secondes	
+Contact 2 , 3
+
+	24.8 secondes	
+Contact 2 , 3
+
+	24.83 secondes	
+Contact 2 , 3
+
+	24.87 secondes	
+Contact 2 , 3
+
+	24.9 secondes	
+Contact 2 , 3
+
+	24.93 secondes	
+Contact 1 , 2
+Contact 2 , 3
+poisson 5 change de zone F -> E
+
+	24.97 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.0 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.03 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.07 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.1 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.13 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.17 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.2 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.23 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.27 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.3 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.33 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.37 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.4 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.43 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.47 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.5 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.53 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.57 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.6 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.63 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.67 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	25.7 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	25.73 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	25.77 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	25.8 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	25.83 secondes	
+Contact 1 , 3
+Contact 2 , 3
+poisson 4 change de zone A -> B
+
+	25.87 secondes	
+Contact 2 , 3
+
+	25.9 secondes	
+Contact 2 , 3
+
+	25.93 secondes	
+Contact 2 , 3
+
+	25.97 secondes	
+Contact 2 , 3
+
+	26.0 secondes	
+Contact 2 , 3
+poisson 5 change de zone E -> D
+
+	26.03 secondes	
+Contact 2 , 3
+
+	26.07 secondes	
+Contact 2 , 3
+
+	26.1 secondes	
+Contact 2 , 3
+
+	26.13 secondes	
+Contact 2 , 3
+
+	26.17 secondes	
+Contact 2 , 3
+
+	26.2 secondes	
+Contact 2 , 3
+
+	26.23 secondes	
+Contact 2 , 3
+
+	26.27 secondes	
+Contact 2 , 3
+
+	26.3 secondes	
+Contact 2 , 3
+
+	26.33 secondes	
+Contact 2 , 3
+
+	26.37 secondes	
+Contact 2 , 3
+
+	26.4 secondes	
+Contact 2 , 3
+
+	26.43 secondes	
+Contact 2 , 3
+
+	26.47 secondes	
+Contact 2 , 3
+
+	26.5 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	26.53 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	26.57 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	26.6 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	26.63 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	26.67 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	26.7 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	26.73 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	26.77 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	26.8 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	26.83 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	26.87 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	26.9 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	26.93 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	26.97 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	27.0 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	27.03 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	27.07 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	27.1 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	27.13 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	27.17 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	27.2 secondes	
+Contact 2 , 3
+Contact 2 , 5
+
+	27.23 secondes	
+Contact 2 , 5
+
+	27.27 secondes	
+Contact 2 , 5
+
+	27.3 secondes	
+Contact 2 , 5
+
+	27.33 secondes	
+Contact 2 , 5
+
+	27.37 secondes	
+Contact 2 , 5
+
+	27.4 secondes	
+Contact 2 , 5
+
+	27.43 secondes	
+Contact 2 , 5
+
+	27.47 secondes	
+Contact 2 , 5
+
+	27.5 secondes	
+Contact 2 , 5
+
+	27.53 secondes	
+Contact 2 , 5
+
+	27.57 secondes	
+Contact 2 , 5
+
+	27.6 secondes	
+Contact 2 , 5
+
+	27.63 secondes	
+Contact 2 , 5
+
+	27.67 secondes	
+Contact 2 , 5
+
+	27.7 secondes	
+Contact 2 , 5
+
+	27.73 secondes	
+Contact 2 , 5
+poisson 4 change de zone B -> C
+
+	27.77 secondes	
+Contact 2 , 5
+
+	27.8 secondes	
+Contact 2 , 5
+
+	27.83 secondes	
+poisson 1 change de zone D -> E
+Contact 2 , 5
+
+	27.87 secondes	
+Contact 2 , 5
+
+	27.9 secondes	
+Contact 2 , 5
+
+	27.93 secondes	
+Contact 2 , 5
+
+	27.97 secondes	
+Contact 2 , 5
+
+	28.0 secondes	
+poisson 1 change de zone E -> B
+Contact 2 , 5
+
+	28.03 secondes	
+Contact 2 , 5
+
+	28.07 secondes	
+Contact 2 , 5
+
+	28.1 secondes	
+Contact 2 , 5
+
+	28.13 secondes	
+Contact 2 , 5
+
+	28.17 secondes	
+Contact 2 , 5
+
+	28.2 secondes	
+Contact 2 , 5
+
+	28.23 secondes	
+Contact 2 , 5
+
+	28.27 secondes	
+Contact 2 , 5
+
+	28.3 secondes	
+Contact 2 , 5
+
+	28.33 secondes	
+Contact 2 , 5
+
+	28.37 secondes	
+Contact 2 , 5
+
+	28.4 secondes	
+Contact 2 , 5
+
+	28.43 secondes	
+Contact 2 , 5
+poisson 3 change de zone D -> E
+
+	28.47 secondes	
+Contact 2 , 5
+
+	28.5 secondes	
+Contact 2 , 5
+poisson 3 change de zone E -> B
+
+	28.53 secondes	
+Contact 2 , 5
+
+	28.57 secondes	
+poisson 1 change de zone B -> A
+Contact 2 , 5
+
+	28.6 secondes	
+Contact 2 , 5
+
+	28.63 secondes	
+Contact 2 , 5
+
+	28.67 secondes	
+Contact 2 , 5
+
+	28.7 secondes	
+Contact 2 , 5
+
+	28.73 secondes	
+Contact 2 , 5
+
+	28.77 secondes	
+Contact 2 , 5
+
+	28.8 secondes	
+Contact 2 , 5
+
+	28.83 secondes	
+Contact 2 , 5
+poisson 3 change de zone B -> A
+
+	28.87 secondes	
+Contact 2 , 5
+
+	28.9 secondes	
+Contact 2 , 5
+
+	28.93 secondes	
+Contact 2 , 5
+
+	28.97 secondes	
+Contact 2 , 5
+
+	29.0 secondes	
+Contact 2 , 5
+
+	29.03 secondes	
+Contact 2 , 5
+
+	29.07 secondes	
+Contact 2 , 5
+
+	29.1 secondes	
+Contact 2 , 5
+
+	29.13 secondes	
+Contact 2 , 5
+
+	29.17 secondes	
+Contact 2 , 5
+
+	29.2 secondes	
+Contact 2 , 5
+
+	29.23 secondes	
+Contact 2 , 5
+
+	29.27 secondes	
+
+	29.3 secondes	
+
+	29.33 secondes	
+
+	29.37 secondes	
+
+	29.4 secondes	
+
+	29.43 secondes	
+
+	29.47 secondes	
+
+	29.5 secondes	
+
+	29.53 secondes	
+
+	29.57 secondes	
+
+	29.6 secondes	
+
+	29.63 secondes	
+
+	29.67 secondes	
+
+	29.7 secondes	
+
+	29.73 secondes	
+
+	29.77 secondes	
+
+	29.8 secondes	
+
+	29.83 secondes	
+
+	29.87 secondes	
+
+	29.9 secondes	
+
+	29.93 secondes	
+
+	29.97 secondes	
+
+	30.0 secondes	
+
+	30.03 secondes	
+
+	30.07 secondes	
+
+	30.1 secondes	
+
+	30.13 secondes	
+
+	30.17 secondes	
+
+	30.2 secondes	
+
+	30.23 secondes	
+
+	30.27 secondes	
+
+	30.3 secondes	
+
+	30.33 secondes	
+
+	30.37 secondes	
+
+	30.4 secondes	
+
+	30.43 secondes	
+
+	30.47 secondes	
+
+	30.5 secondes	
+
+	30.53 secondes	
+
+	30.57 secondes	
+
+	30.6 secondes	
+
+	30.63 secondes	
+
+	30.67 secondes	
+
+	30.7 secondes	
+
+	30.73 secondes	
+
+	30.77 secondes	
+
+	30.8 secondes	
+
+	30.83 secondes	
+
+	30.87 secondes	
+
+	30.9 secondes	
+
+	30.93 secondes	
+
+	30.97 secondes	
+
+	31.0 secondes	
+
+	31.03 secondes	
+
+	31.07 secondes	
+
+	31.1 secondes	
+
+	31.13 secondes	
+
+	31.17 secondes	
+
+	31.2 secondes	
+
+	31.23 secondes	
+
+	31.27 secondes	
+poisson 1 change de zone A -> D
+
+	31.3 secondes	
+
+	31.33 secondes	
+
+	31.37 secondes	
+
+	31.4 secondes	
+
+	31.43 secondes	
+
+	31.47 secondes	
+
+	31.5 secondes	
+
+	31.53 secondes	
+Contact 1 , 5
+
+	31.57 secondes	
+Contact 1 , 5
+
+	31.6 secondes	
+Contact 1 , 5
+
+	31.63 secondes	
+Contact 1 , 5
+
+	31.67 secondes	
+Contact 1 , 5
+
+	31.7 secondes	
+Contact 1 , 5
+
+	31.73 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	31.77 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	31.8 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	31.83 secondes	
+Contact 3 , 5
+
+	31.87 secondes	
+Contact 3 , 5
+
+	31.9 secondes	
+Contact 3 , 5
+
+	31.93 secondes	
+Contact 3 , 5
+
+	31.97 secondes	
+Contact 3 , 5
+
+	32.0 secondes	
+Contact 3 , 5
+
+	32.03 secondes	
+Contact 3 , 5
+
+	32.07 secondes	
+Contact 3 , 5
+
+	32.1 secondes	
+Contact 3 , 5
+
+	32.13 secondes	
+Contact 3 , 5
+
+	32.17 secondes	
+Contact 3 , 5
+
+	32.2 secondes	
+Contact 3 , 5
+
+	32.23 secondes	
+Contact 3 , 5
+
+	32.27 secondes	
+Contact 3 , 5
+
+	32.3 secondes	
+Contact 3 , 5
+
+	32.33 secondes	
+Contact 3 , 5
+poisson 4 change de zone C -> F
+
+	32.37 secondes	
+Contact 3 , 5
+
+	32.4 secondes	
+Contact 3 , 5
+
+	32.43 secondes	
+Contact 3 , 5
+
+	32.47 secondes	
+Contact 3 , 5
+
+	32.5 secondes	
+Contact 3 , 5
+
+	32.53 secondes	
+Contact 3 , 5
+
+	32.57 secondes	
+Contact 3 , 5
+
+	32.6 secondes	
+Contact 3 , 5
+
+	32.63 secondes	
+Contact 3 , 5
+
+	32.67 secondes	
+Contact 3 , 5
+
+	32.7 secondes	
+Contact 3 , 5
+
+	32.73 secondes	
+Contact 3 , 5
+
+	32.77 secondes	
+Contact 3 , 5
+
+	32.8 secondes	
+Contact 3 , 5
+
+	32.83 secondes	
+Contact 3 , 5
+
+	32.87 secondes	
+Contact 3 , 5
+
+	32.9 secondes	
+Contact 3 , 5
+
+	32.93 secondes	
+Contact 3 , 5
+
+	32.97 secondes	
+Contact 3 , 5
+
+	33.0 secondes	
+Contact 3 , 5
+
+	33.03 secondes	
+Contact 3 , 5
+
+	33.07 secondes	
+Contact 3 , 5
+
+	33.1 secondes	
+Contact 3 , 5
+
+	33.13 secondes	
+Contact 3 , 5
+
+	33.17 secondes	
+Contact 3 , 5
+
+	33.2 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	33.23 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	33.27 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	33.3 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	33.33 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	33.37 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	33.4 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 3 , 5
+
+	33.43 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 3 , 5
+
+	33.47 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 5
+Contact 3 , 5
+
+	33.5 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 5
+Contact 3 , 5
+
+	33.53 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 5
+Contact 3 , 5
+poisson 5 change de zone D -> A
+
+	33.57 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 5
+Contact 3 , 5
+
+	33.6 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 5
+Contact 3 , 5
+
+	33.63 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 5
+
+	33.67 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 5
+
+	33.7 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 5
+
+	33.73 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 5
+
+	33.77 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 5
+
+	33.8 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 5
+
+	33.83 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 5
+
+	33.87 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+
+	33.9 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+
+	33.93 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+
+	33.97 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+
+	34.0 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+
+	34.03 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+
+	34.07 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+
+	34.1 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+
+	34.13 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+poisson 4 change de zone F -> E
+
+	34.17 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+
+	34.2 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+
+	34.23 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.27 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.3 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.33 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.37 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.4 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.43 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.47 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.5 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.53 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.57 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.6 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.63 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.67 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.7 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.73 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.77 secondes	
+Contact 2 , 3
+Contact 3 , 5
+
+	34.8 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+
+	34.83 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+
+	34.87 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+
+	34.9 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 3 , 5
+
+	34.93 secondes	
+Contact 2 , 3
+
+	34.97 secondes	
+Contact 2 , 3
+
+	35.0 secondes	
+Contact 2 , 3
+
+	35.03 secondes	
+Contact 2 , 3
+
+	35.07 secondes	
+Contact 2 , 3
+
+	35.1 secondes	
+Contact 2 , 3
+
+	35.13 secondes	
+Contact 2 , 3
+
+	35.17 secondes	
+Contact 2 , 3
+
+	35.2 secondes	
+Contact 2 , 3
+
+	35.23 secondes	
+Contact 2 , 3
+
+	35.27 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.3 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.33 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.37 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.4 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.43 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.47 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.5 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.53 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.57 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.6 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.63 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.67 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.7 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.73 secondes	
+Contact 1 , 2
+Contact 2 , 3
+
+	35.77 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	35.8 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	35.83 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	35.87 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+poisson 4 change de zone E -> D
+
+	35.9 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	35.93 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	35.97 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.0 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.03 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.07 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.1 secondes	
+poisson 1 change de zone D -> A
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.13 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.17 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.2 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.23 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.27 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.3 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.33 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.37 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.4 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.43 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.47 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.5 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.53 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.57 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.6 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.63 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.67 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.7 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+
+	36.73 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	36.77 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	36.8 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	36.83 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	36.87 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	36.9 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	36.93 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	36.97 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	37.0 secondes	
+Contact 2 , 3
+
+	37.03 secondes	
+Contact 2 , 3
+
+	37.07 secondes	
+Contact 2 , 3
+
+	37.1 secondes	
+Contact 2 , 3
+
+	37.13 secondes	
+Contact 2 , 3
+
+	37.17 secondes	
+Contact 2 , 3
+
+	37.2 secondes	
+Contact 2 , 3
+
+	37.23 secondes	
+Contact 2 , 3
+
+	37.27 secondes	
+Contact 2 , 3
+
+	37.3 secondes	
+Contact 2 , 3
+
+	37.33 secondes	
+Contact 2 , 3
+
+	37.37 secondes	
+Contact 2 , 3
+
+	37.4 secondes	
+Contact 2 , 3
+
+	37.43 secondes	
+Contact 2 , 3
+
+	37.47 secondes	
+Contact 2 , 3
+
+	37.5 secondes	
+Contact 2 , 3
+
+	37.53 secondes	
+Contact 2 , 3
+
+	37.57 secondes	
+Contact 2 , 3
+
+	37.6 secondes	
+Contact 2 , 3
+
+	37.63 secondes	
+Contact 2 , 3
+
+	37.67 secondes	
+Contact 2 , 3
+
+	37.7 secondes	
+Contact 2 , 3
+
+	37.73 secondes	
+Contact 2 , 3
+
+	37.77 secondes	
+Contact 2 , 3
+
+	37.8 secondes	
+Contact 2 , 3
+
+	37.83 secondes	
+Contact 2 , 3
+
+	37.87 secondes	
+Contact 2 , 3
+
+	37.9 secondes	
+Contact 2 , 3
+
+	37.93 secondes	
+Contact 2 , 3
+
+	37.97 secondes	
+Contact 2 , 3
+
+	38.0 secondes	
+Contact 2 , 3
+
+	38.03 secondes	
+Contact 2 , 3
+
+	38.07 secondes	
+Contact 2 , 3
+
+	38.1 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	38.13 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	38.17 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.2 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.23 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.27 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.3 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.33 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.37 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.4 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.43 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.47 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.5 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.53 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.57 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.6 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.63 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.67 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.7 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.73 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.77 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.8 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.83 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 4
+
+	38.87 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	38.9 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	38.93 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	38.97 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.0 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.03 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.07 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.1 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.13 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.17 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.2 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.23 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.27 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.3 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.33 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.37 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.4 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.43 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.47 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.5 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.53 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.57 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.6 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.63 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.67 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.7 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.73 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.77 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.8 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.83 secondes	
+Contact 1 , 5
+Contact 2 , 4
+
+	39.87 secondes	
+Contact 2 , 4
+
+	39.9 secondes	
+poisson 2 change de zone D -> A
+Contact 2 , 4
+
+	39.93 secondes	
+Contact 2 , 4
+
+	39.97 secondes	
+Contact 1 , 5
+
+	40.0 secondes	
+Contact 1 , 5
+
+	40.03 secondes	
+Contact 1 , 5
+
+	40.07 secondes	
+Contact 1 , 5
+
+	40.1 secondes	
+Contact 1 , 5
+
+	40.13 secondes	
+Contact 1 , 5
+
+	40.17 secondes	
+Contact 1 , 5
+
+	40.2 secondes	
+Contact 1 , 5
+
+	40.23 secondes	
+Contact 1 , 5
+
+	40.27 secondes	
+Contact 1 , 5
+
+	40.3 secondes	
+Contact 1 , 5
+
+	40.33 secondes	
+Contact 1 , 5
+
+	40.37 secondes	
+Contact 1 , 5
+
+	40.4 secondes	
+Contact 1 , 5
+poisson 4 change de zone D -> A
+
+	40.43 secondes	
+Contact 1 , 5
+
+	40.47 secondes	
+Contact 1 , 5
+
+	40.5 secondes	
+Contact 1 , 5
+
+	40.53 secondes	
+Contact 1 , 5
+
+	40.57 secondes	
+Contact 1 , 5
+
+	40.6 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	40.63 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	40.67 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	40.7 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	40.73 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	40.77 secondes	
+Contact 1 , 5
+Contact 3 , 5
+
+	40.8 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 3 , 5
+
+	40.83 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 3 , 5
+
+	40.87 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 3 , 5
+
+	40.9 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 3 , 5
+
+	40.93 secondes	
+Contact 1 , 5
+Contact 2 , 3
+
+	40.97 secondes	
+Contact 1 , 5
+Contact 2 , 3
+
+	41.0 secondes	
+Contact 1 , 5
+Contact 2 , 3
+
+	41.03 secondes	
+Contact 1 , 5
+Contact 2 , 3
+
+	41.07 secondes	
+Contact 1 , 5
+Contact 2 , 3
+
+	41.1 secondes	
+Contact 1 , 5
+Contact 2 , 3
+
+	41.13 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+
+	41.17 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+
+	41.2 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.23 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.27 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.3 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.33 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.37 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.4 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.43 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.47 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.5 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.53 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.57 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.6 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.63 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.67 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.7 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.73 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.77 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.8 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.83 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.87 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.9 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.93 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	41.97 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	42.0 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	42.03 secondes	
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	42.07 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	42.1 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	42.13 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	42.17 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	42.2 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	42.23 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	42.27 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	42.3 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+
+	42.33 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.37 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.4 secondes	
+Contact 1 , 2
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.43 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.47 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.5 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.53 secondes	
+Contact 1 , 2
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.57 secondes	
+Contact 1 , 2
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.6 secondes	
+Contact 1 , 2
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.63 secondes	
+Contact 1 , 2
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.67 secondes	
+Contact 1 , 2
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.7 secondes	
+Contact 1 , 2
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.73 secondes	
+Contact 1 , 2
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.77 secondes	
+Contact 1 , 2
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.8 secondes	
+Contact 1 , 2
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.83 secondes	
+Contact 1 , 2
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.87 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.9 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.93 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	42.97 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.0 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.03 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.07 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.1 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.13 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.17 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.2 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.23 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.27 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.3 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.33 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.37 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.4 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.43 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.47 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.5 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.53 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.57 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.6 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.63 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.67 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.7 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.73 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.77 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.8 secondes	
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.83 secondes	
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.87 secondes	
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.9 secondes	
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.93 secondes	
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	43.97 secondes	
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.0 secondes	
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.03 secondes	
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.07 secondes	
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.1 secondes	
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.13 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.17 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.2 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.23 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.27 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.3 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.33 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.37 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.4 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.43 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.47 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.5 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.53 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.57 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.6 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.63 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.67 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.7 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.73 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.77 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.8 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.83 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.87 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.9 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.93 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	44.97 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	45.0 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	45.03 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	45.07 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	45.1 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	45.13 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	45.17 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 1 , 5
+Contact 2 , 3
+Contact 2 , 5
+Contact 3 , 4
+
+	45.2 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 4
+Contact 2 , 5
+Contact 3 , 4
+
+	45.23 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 4
+Contact 2 , 5
+Contact 3 , 4
+
+	45.27 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 4
+Contact 2 , 5
+Contact 3 , 4
+
+	45.3 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 4
+Contact 2 , 5
+Contact 3 , 4
+
+	45.33 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 4
+Contact 2 , 5
+Contact 3 , 4
+
+	45.37 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	45.4 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.43 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.47 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.5 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.53 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.57 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.6 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.63 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.67 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.7 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.73 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.77 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.8 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.83 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.87 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.9 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.93 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	45.97 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	46.0 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	46.03 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	46.07 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	46.1 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	46.13 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	46.17 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	46.2 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	46.23 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+Contact 4 , 5
+
+	46.27 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.3 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.33 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.37 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.4 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.43 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.47 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.5 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.53 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.57 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.6 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.63 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.67 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.7 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.73 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.77 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.8 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.83 secondes	
+Contact 1 , 2
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.87 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.9 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.93 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	46.97 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.0 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.03 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.07 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.1 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.13 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.17 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.2 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.23 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.27 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.3 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.33 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.37 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.4 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.43 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.47 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.5 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.53 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.57 secondes	
+Contact 2 , 3
+Contact 2 , 4
+Contact 3 , 4
+
+	47.6 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	47.63 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	47.67 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	47.7 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	47.73 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	47.77 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	47.8 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	47.83 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	47.87 secondes	
+poisson 1 change de zone A -> B
+Contact 2 , 3
+Contact 2 , 4
+
+	47.9 secondes	
+Contact 2 , 3
+Contact 2 , 4
+poisson 5 change de zone A -> D
+
+	47.93 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	47.97 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	48.0 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	48.03 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	48.07 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	48.1 secondes	
+Contact 2 , 3
+Contact 2 , 4
+
+	48.13 secondes	
+Contact 2 , 4
+
+	48.17 secondes	
+Contact 2 , 4
+
+	48.2 secondes	
+Contact 2 , 4
+
+	48.23 secondes	
+Contact 2 , 4
+
+	48.27 secondes	
+Contact 2 , 4
+
+	48.3 secondes	
+Contact 2 , 4
+
+	48.33 secondes	
+Contact 2 , 4
+
+	48.37 secondes	
+Contact 2 , 4
+
+	48.4 secondes	
+Contact 2 , 4
+
+	48.43 secondes	
+Contact 2 , 4
+
+	48.47 secondes	
+Contact 2 , 4
+
+	48.5 secondes	
+Contact 2 , 4
+
+	48.53 secondes	
+Contact 2 , 4
+
+	48.57 secondes	
+Contact 2 , 4
+
+	48.6 secondes	
+Contact 2 , 4
+
+	48.63 secondes	
+Contact 2 , 4
+
+	48.67 secondes	
+Contact 2 , 4
+
+	48.7 secondes	
+Contact 2 , 4
+
+	48.73 secondes	
+Contact 2 , 4
+
+	48.77 secondes	
+Contact 2 , 4
+
+	48.8 secondes	
+Contact 2 , 4
+poisson 3 change de zone A -> B
+
+	48.83 secondes	
+Contact 2 , 4
+
+	48.87 secondes	
+Contact 2 , 4
+
+	48.9 secondes	
+Contact 2 , 4
+
+	48.93 secondes	
+Contact 2 , 4
+
+	48.97 secondes	
+Contact 2 , 4
+
+	49.0 secondes	
+Contact 2 , 4
+
+	49.03 secondes	
+Contact 2 , 4
+
+	49.07 secondes	
+Contact 2 , 4
+
+	49.1 secondes	
+Contact 2 , 4
+
+	49.13 secondes	
+Contact 2 , 4
+
+	49.17 secondes	
+Contact 2 , 4
+
+	49.2 secondes	
+Contact 2 , 4
+
+	49.23 secondes	
+Contact 2 , 4
+
+	49.27 secondes	
+Contact 2 , 4
+
+	49.3 secondes	
+Contact 2 , 4
+
+	49.33 secondes	
+Contact 2 , 4
+
+	49.37 secondes	
+Contact 2 , 4
+
+	49.4 secondes	
+poisson 1 change de zone B -> C
+Contact 2 , 4
+
+	49.43 secondes	
+Contact 2 , 4
+
+	49.47 secondes	
+Contact 2 , 4
+
+	49.5 secondes	
+Contact 2 , 4
+
+	49.53 secondes	
+Contact 2 , 4
+
+	49.57 secondes	
+Contact 2 , 4
+
+	49.6 secondes	
+Contact 2 , 4
+
+	49.63 secondes	
+Contact 2 , 4
+
+	49.67 secondes	
+Contact 2 , 4
+
+	49.7 secondes	
+Contact 2 , 4
+
+	49.73 secondes	
+Contact 2 , 4
+
+	49.77 secondes	
+Contact 2 , 4
+
+	49.8 secondes	
+Contact 2 , 4
+
+	49.83 secondes	
+Contact 2 , 4
+
+	49.87 secondes	
+
+	49.9 secondes	
+poisson 3 change de zone B -> C
+
+	49.93 secondes	
+
+	49.97 secondes	
+
+	50.0 secondes	
+
+	50.03 secondes	
+
+	50.07 secondes	
+
+	50.1 secondes	
+
+	50.13 secondes	
+
+	50.17 secondes	
+
+	50.2 secondes	
+
+	50.23 secondes	
+poisson 2 change de zone A -> B
+
+	50.27 secondes	
+
+	50.3 secondes	
+
+	50.33 secondes	
+
+	50.37 secondes	
+
+	50.4 secondes	
+
+	50.43 secondes	
+
+	50.47 secondes	
+
+	50.5 secondes	
+
+	50.53 secondes	
+
+	50.57 secondes	
+
+	50.6 secondes	
+
+	50.63 secondes	
+
+	50.67 secondes	
+
+	50.7 secondes	
+
+	50.73 secondes	
+poisson 4 change de zone A -> B
+
+	50.77 secondes	
+
+	50.8 secondes	
+
+	50.83 secondes	
+
+	50.87 secondes	
+
+	50.9 secondes	
+
+	50.93 secondes	
+
+	50.97 secondes	
+
+	51.0 secondes	
+
+	51.03 secondes	
+
+	51.07 secondes	
+
+	51.1 secondes	
+
+	51.13 secondes	
+
+	51.17 secondes	
+
+	51.2 secondes	
+
+	51.23 secondes	
+
+	51.27 secondes	
+
+	51.3 secondes	
+
+	51.33 secondes	
+
+	51.37 secondes	
+
+	51.4 secondes	
+
+	51.43 secondes	
+
+	51.47 secondes	
+
+	51.5 secondes	
+
+	51.53 secondes	
+poisson 2 change de zone B -> C
+
+	51.57 secondes	
+
+	51.6 secondes	
+
+	51.63 secondes	
+
+	51.67 secondes	
+
+	51.7 secondes	
+
+	51.73 secondes	
+
+	51.77 secondes	
+poisson 5 change de zone D -> E
+
+	51.8 secondes	
+
+	51.83 secondes	
+
+	51.87 secondes	
+
+	51.9 secondes	
+
+	51.93 secondes	
+
+	51.97 secondes	
+
+	52.0 secondes	
+
+	52.03 secondes	
+
+	52.07 secondes	
+
+	52.1 secondes	
+
+	52.13 secondes	
+
+	52.17 secondes	
+
+	52.2 secondes	
+poisson 4 change de zone B -> C
+
+	52.23 secondes	
+
+	52.27 secondes	
+
+	52.3 secondes	
+
+	52.33 secondes	
+
+	52.37 secondes	
+
+	52.4 secondes	
+
+	52.43 secondes	
+
+	52.47 secondes	
+
+	52.5 secondes	
+
+	52.53 secondes	
+
+	52.57 secondes	
+
+	52.6 secondes	
+
+	52.63 secondes	
+Contact 1 , 3
+
+	52.67 secondes	
+Contact 1 , 3
+
+	52.7 secondes	
+Contact 1 , 3
+
+	52.73 secondes	
+Contact 1 , 3
+
+	52.77 secondes	
+Contact 1 , 3
+
+	52.8 secondes	
+Contact 1 , 3
+
+	52.83 secondes	
+Contact 1 , 3
+
+	52.87 secondes	
+Contact 1 , 3
+
+	52.9 secondes	
+Contact 1 , 3
+
+	52.93 secondes	
+Contact 1 , 3
+
+	52.97 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	53.0 secondes	
+Contact 1 , 3
+Contact 2 , 3
+
+	53.03 secondes	
+Contact 2 , 3
+
+	53.07 secondes	
+Contact 2 , 3
+
+	53.1 secondes	
+Contact 2 , 3
+
+	53.13 secondes	
+Contact 2 , 3
+
+	53.17 secondes	
+Contact 2 , 3
+
+	53.2 secondes	
+Contact 2 , 3
+
+	53.23 secondes	
+Contact 2 , 3
+
+	53.27 secondes	
+Contact 2 , 3
+
+	53.3 secondes	
+Contact 2 , 3
+
+	53.33 secondes	
+Contact 2 , 3
+
+	53.37 secondes	
+Contact 2 , 3
+
+	53.4 secondes	
+Contact 2 , 3
+
+	53.43 secondes	
+Contact 2 , 3
+
+	53.47 secondes	
+Contact 2 , 3
+
+	53.5 secondes	
+
+	53.53 secondes	
+
+	53.57 secondes	
+
+	53.6 secondes	
+
+	53.63 secondes	
+
+	53.67 secondes	
+
+	53.7 secondes	
+
+	53.73 secondes	
+
+	53.77 secondes	
+
+	53.8 secondes	
+
+	53.83 secondes	
+
+	53.87 secondes	
+
+	53.9 secondes	
+
+	53.93 secondes	
+
+	53.97 secondes	
+
+	54.0 secondes	
+
+	54.03 secondes	
+
+	54.07 secondes	
+poisson 5 change de zone E -> F
+
+	54.1 secondes	
+
+	54.13 secondes	
+
+	54.17 secondes	
+
+	54.2 secondes	
+
+	54.23 secondes	
+
+	54.27 secondes	
+
+	54.3 secondes	
+Contact 1 , 4
+
+	54.33 secondes	
+Contact 1 , 4
+
+	54.37 secondes	
+Contact 1 , 4
+
+	54.4 secondes	
+Contact 1 , 4
+
+	54.43 secondes	
+Contact 1 , 4
+
+	54.47 secondes	
+Contact 1 , 4
+
+	54.5 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 3 , 4
+
+	54.53 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	54.57 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	54.6 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	54.63 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	54.67 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	54.7 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	54.73 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	54.77 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	54.8 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	54.83 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	54.87 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	54.9 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	54.93 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	54.97 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.0 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.03 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.07 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.1 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.13 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.17 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.2 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.23 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.27 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.3 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.33 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.37 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.4 secondes	
+Contact 1 , 2
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.43 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.47 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.5 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.53 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.57 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+Contact 3 , 4
+
+	55.6 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+
+	55.63 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+
+	55.67 secondes	
+Contact 1 , 3
+Contact 1 , 4
+Contact 2 , 4
+
+	55.7 secondes	
+Contact 1 , 4
+Contact 2 , 4
+
+	55.73 secondes	
+Contact 1 , 4
+Contact 2 , 4
+
+	55.77 secondes	
+Contact 1 , 4
+Contact 2 , 4
+
+	55.8 secondes	
+Contact 1 , 4
+Contact 2 , 4
+
+	55.83 secondes	
+Contact 1 , 4
+
+	55.87 secondes	
+Contact 1 , 4
+
+	55.9 secondes	
+Contact 1 , 4
+
+	55.93 secondes	
+Contact 1 , 4
+
+	55.97 secondes	
+Contact 1 , 4
+
+	56.0 secondes	
+Contact 1 , 4
+
+	56.03 secondes	
+Contact 1 , 4
+
+	56.07 secondes	
+Contact 1 , 4
+
+	56.1 secondes	
+Contact 1 , 4
+
+	56.13 secondes	
+Contact 1 , 4
+
+	56.17 secondes	
+Contact 1 , 4
+
+	56.2 secondes	
+Contact 1 , 4
+
+	56.23 secondes	
+Contact 1 , 4
+
+	56.27 secondes	
+Contact 1 , 4
+
+	56.3 secondes	
+Contact 1 , 4
+
+	56.33 secondes	
+Contact 1 , 4
+
+	56.37 secondes	
+Contact 1 , 4
+
+	56.4 secondes	
+Contact 1 , 4
+
+	56.43 secondes	
+Contact 1 , 4
+
+	56.47 secondes	
+Contact 1 , 4
+
+	56.5 secondes	
+Contact 1 , 4
+
+	56.53 secondes	
+Contact 1 , 4
+
+	56.57 secondes	
+Contact 1 , 4
+
+	56.6 secondes	
+Contact 1 , 4
+
+	56.63 secondes	
+Contact 1 , 4
+
+	56.67 secondes	
+Contact 1 , 4
+
+	56.7 secondes	
+Contact 1 , 4
+
+	56.73 secondes	
+Contact 1 , 4
+
+	56.77 secondes	
+Contact 1 , 4
+
+	56.8 secondes	
+Contact 1 , 4
+
+	56.83 secondes	
+Contact 1 , 4
+
+	56.87 secondes	
+Contact 1 , 4
+
+	56.9 secondes	
+Contact 1 , 4
+
+	56.93 secondes	
+Contact 1 , 4
+
+	56.97 secondes	
+Contact 1 , 4
+
+	57.0 secondes	
+Contact 1 , 4
+
+	57.03 secondes	
+Contact 1 , 4
+
+	57.07 secondes	
+Contact 1 , 4
+
+	57.1 secondes	
+Contact 1 , 4
+
+	57.13 secondes	
+Contact 1 , 4
+
+	57.17 secondes	
+Contact 1 , 4
+
+	57.2 secondes	
+Contact 1 , 4
+
+	57.23 secondes	
+Contact 1 , 4
+
+	57.27 secondes	
+Contact 1 , 4
+
+	57.3 secondes	
+Contact 1 , 4
+
+	57.33 secondes	
+Contact 1 , 4
+
+	57.37 secondes	
+Contact 1 , 4
+
+	57.4 secondes	
+Contact 1 , 4
+
+	57.43 secondes	
+Contact 1 , 4
+
+	57.47 secondes	
+Contact 1 , 4
+
+	57.5 secondes	
+Contact 1 , 4
+
+	57.53 secondes	
+Contact 1 , 4
+
+	57.57 secondes	
+Contact 1 , 4
+
+	57.6 secondes	
+Contact 1 , 4
+
+	57.63 secondes	
+Contact 1 , 4
+
+	57.67 secondes	
+Contact 1 , 4
+
+	57.7 secondes	
+Contact 1 , 4
+
+	57.73 secondes	
+Contact 1 , 4
+
+	57.77 secondes	
+Contact 1 , 4
+
+	57.8 secondes	
+Contact 1 , 4
+
+	57.83 secondes	
+Contact 1 , 4
+
+	57.87 secondes	
+Contact 1 , 4
+
+	57.9 secondes	
+Contact 1 , 4
+
+	57.93 secondes	
+Contact 1 , 4
+
+	57.97 secondes	
+Contact 1 , 4
+
+	58.0 secondes	
+Contact 1 , 4
+
+	58.03 secondes	
+Contact 1 , 4
+
+	58.07 secondes	
+Contact 1 , 4
+
+	58.1 secondes	
+Contact 1 , 4
+
+	58.13 secondes	
+Contact 1 , 4
+
+	58.17 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.2 secondes	
+Contact 1 , 4
+poisson 3 change de zone C -> F
+Contact 3 , 5
+
+	58.23 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.27 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.3 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.33 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.37 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.4 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.43 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.47 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.5 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.53 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.57 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.6 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.63 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.67 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.7 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.73 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.77 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.8 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.83 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.87 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.9 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	58.93 secondes	
+Contact 1 , 4
+Contact 3 , 5
+poisson 5 change de zone F -> C
+
+	58.97 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	59.0 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	59.03 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	59.07 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	59.1 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	59.13 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	59.17 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	59.2 secondes	
+Contact 1 , 4
+Contact 3 , 5
+
+	59.23 secondes	
+Contact 3 , 5
+
+	59.27 secondes	
+Contact 3 , 5
+
+	59.3 secondes	
+Contact 3 , 5
+
+	59.33 secondes	
+Contact 3 , 5
+
+	59.37 secondes	
+Contact 2 , 5
+Contact 3 , 5
+
+	59.4 secondes	
+Contact 2 , 5
+Contact 3 , 5
+
+	59.43 secondes	
+Contact 2 , 5
+Contact 3 , 5
+
+	59.47 secondes	
+Contact 2 , 5
+Contact 3 , 5
+
+	59.5 secondes	
+Contact 2 , 5
+Contact 3 , 5
+
+	59.53 secondes	
+Contact 2 , 5
+Contact 3 , 5
+
+	59.57 secondes	
+Contact 2 , 5
+Contact 3 , 5
+
+	59.6 secondes	
+Contact 2 , 5
+Contact 3 , 5
+
+	59.63 secondes	
+Contact 2 , 5
+
+	59.67 secondes	
+Contact 2 , 5
+
+	59.7 secondes	
+Contact 2 , 5
+
+	59.73 secondes	
+Contact 2 , 5
+
+	59.77 secondes	
+Contact 2 , 5
+
+	59.8 secondes	
+Contact 2 , 5
+
+	59.83 secondes	
+Contact 2 , 5
+
+	59.87 secondes	
+Contact 2 , 5
+
+	59.9 secondes	
+Contact 2 , 5
+
+	59.93 secondes	
+Contact 2 , 5

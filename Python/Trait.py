@@ -87,7 +87,7 @@ def main():
 
     b = tk.Button(fen, width=15, text='Generer Graphique',
                   command=lambda: graph(file_name_entry.get(), int(nb_poisson_spinbox.get()) + 1,
-                                        int(nb_frames_spinbox.get()) + 1, mode.get()))
+                                        int(nb_frames_spinbox.get()) +1, mode.get()))
     b.place(x=250, y=260, anchor='center')
     fen.mainloop()
 
