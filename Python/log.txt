@@ -2,16 +2,15 @@
 
 poisson 1 entre en contact avec 2 a 12.233333333333333 sec
 poisson 1 entre en contact avec 2 a 14.9 sec
-poisson 1 entre en contact avec 2 a 15.933333333333334 sec
-poisson 1 entre en contact avec 3 a 19.6 sec
+poisson 1 entre en contact avec 2 a 15.9 sec
+poisson 1 entre en contact avec 3 a 19.566666666666666 sec
 poisson 1 entre en contact avec 2 a 20.766666666666666 sec
-poisson 1 entre en contact avec 2 a 24.966666666666665 sec
+poisson 1 entre en contact avec 2 a 24.933333333333334 sec
 poisson 1 entre en contact avec 3 a 25.0 sec
 poisson 1 entre en contact avec 5 a 31.566666666666666 sec
 poisson 1 entre en contact avec 5 a 33.233333333333334 sec
 poisson 1 entre en contact avec 2 a 33.43333333333333 sec
-poisson 1 entre en contact avec 2 a 34.833333333333336 sec
-poisson 1 entre en contact avec 2 a 35.3 sec
+poisson 1 entre en contact avec 2 a 34.733333333333334 sec
 poisson 1 entre en contact avec 3 a 35.8 sec
 poisson 1 entre en contact avec 5 a 38.2 sec
 poisson 1 entre en contact avec 2 a 41.166666666666664 sec
@@ -20,94 +19,102 @@ poisson 1 entre en contact avec 3 a 42.9 sec
 poisson 1 entre en contact avec 2 a 44.166666666666664 sec
 poisson 1 entre en contact avec 3 a 44.166666666666664 sec
 poisson 1 entre en contact avec 4 a 44.166666666666664 sec
-poisson 1 entre en contact avec 5 a 44.6 sec
-poisson 1 entre en contact avec 3 a 52.666666666666664 sec
-poisson 1 entre en contact avec 4 a 54.333333333333336 sec
-poisson 1 entre en contact avec 3 a 54.53333333333333 sec
-poisson 1 entre en contact avec 2 a 55.2 sec
+poisson 1 entre en contact avec 5 a 44.56666666666667 sec
+poisson 1 entre en contact avec 3 a 52.63333333333333 sec
+poisson 1 entre en contact avec 4 a 54.3 sec
+poisson 1 entre en contact avec 3 a 54.5 sec
+poisson 1 entre en contact avec 2 a 55.13333333333333 sec
 
 
-poisson 2 entre en contact avec 3 a 4.066666666666666 sec
-poisson 2 entre en contact avec 3 a 7.0 sec
+poisson 2 entre en contact avec 3 a 6.966666666666667 sec
 poisson 2 entre en contact avec 1 a 12.233333333333333 sec
 poisson 2 entre en contact avec 3 a 12.966666666666667 sec
 poisson 2 entre en contact avec 1 a 14.9 sec
-poisson 2 entre en contact avec 1 a 15.933333333333334 sec
-poisson 2 entre en contact avec 3 a 17.066666666666666 sec
-poisson 2 entre en contact avec 3 a 20.566666666666666 sec
+poisson 2 entre en contact avec 1 a 15.9 sec
+poisson 2 entre en contact avec 3 a 17.033333333333335 sec
+poisson 2 entre en contact avec 3 a 20.533333333333335 sec
 poisson 2 entre en contact avec 1 a 20.766666666666666 sec
-poisson 2 entre en contact avec 1 a 24.966666666666665 sec
+poisson 2 entre en contact avec 1 a 24.933333333333334 sec
 poisson 2 entre en contact avec 5 a 26.533333333333335 sec
 poisson 2 entre en contact avec 1 a 33.43333333333333 sec
 poisson 2 entre en contact avec 5 a 33.5 sec
-poisson 2 entre en contact avec 3 a 33.666666666666664 sec
-poisson 2 entre en contact avec 1 a 34.833333333333336 sec
-poisson 2 entre en contact avec 1 a 35.3 sec
-poisson 2 entre en contact avec 4 a 38.13333333333333 sec
+poisson 2 entre en contact avec 3 a 33.63333333333333 sec
+poisson 2 entre en contact avec 1 a 34.733333333333334 sec
+poisson 2 entre en contact avec 4 a 38.1 sec
 poisson 2 entre en contact avec 3 a 40.833333333333336 sec
 poisson 2 entre en contact avec 1 a 41.166666666666664 sec
 poisson 2 entre en contact avec 5 a 41.233333333333334 sec
 poisson 2 entre en contact avec 1 a 44.166666666666664 sec
-poisson 2 entre en contact avec 4 a 45.233333333333334 sec
+poisson 2 entre en contact avec 4 a 45.03333333333333 sec
 poisson 2 entre en contact avec 3 a 53.0 sec
-poisson 2 entre en contact avec 4 a 54.56666666666667 sec
-poisson 2 entre en contact avec 1 a 55.2 sec
-poisson 2 entre en contact avec 5 a 59.4 sec
+poisson 2 entre en contact avec 4 a 54.53333333333333 sec
+poisson 2 entre en contact avec 1 a 55.13333333333333 sec
+poisson 2 entre en contact avec 3 a 57.46666666666667 sec
+poisson 2 entre en contact avec 5 a 59.36666666666667 sec
 
 
-poisson 3 entre en contact avec 2 a 4.066666666666666 sec
-poisson 3 entre en contact avec 2 a 7.0 sec
+poisson 3 entre en contact avec 2 a 6.966666666666667 sec
 poisson 3 entre en contact avec 2 a 12.966666666666667 sec
-poisson 3 entre en contact avec 2 a 17.066666666666666 sec
-poisson 3 entre en contact avec 1 a 19.6 sec
-poisson 3 entre en contact avec 2 a 20.566666666666666 sec
+poisson 3 entre en contact avec 2 a 17.033333333333335 sec
+poisson 3 entre en contact avec 1 a 19.566666666666666 sec
+poisson 3 entre en contact avec 2 a 20.533333333333335 sec
 poisson 3 entre en contact avec 1 a 25.0 sec
-poisson 3 entre en contact avec 5 a 31.766666666666666 sec
-poisson 3 entre en contact avec 2 a 33.666666666666664 sec
+poisson 3 entre en contact avec 5 a 31.733333333333334 sec
+poisson 3 entre en contact avec 2 a 33.63333333333333 sec
 poisson 3 entre en contact avec 1 a 35.8 sec
-poisson 3 entre en contact avec 5 a 40.63333333333333 sec
+poisson 3 entre en contact avec 5 a 40.6 sec
 poisson 3 entre en contact avec 2 a 40.833333333333336 sec
-poisson 3 entre en contact avec 4 a 42.36666666666667 sec
+poisson 3 entre en contact avec 4 a 42.333333333333336 sec
 poisson 3 entre en contact avec 1 a 42.9 sec
 poisson 3 entre en contact avec 1 a 44.166666666666664 sec
-poisson 3 entre en contact avec 1 a 52.666666666666664 sec
+poisson 3 entre en contact avec 1 a 52.63333333333333 sec
 poisson 3 entre en contact avec 2 a 53.0 sec
-poisson 3 entre en contact avec 1 a 54.53333333333333 sec
+poisson 3 entre en contact avec 1 a 54.5 sec
 poisson 3 entre en contact avec 4 a 54.53333333333333 sec
+poisson 3 entre en contact avec 2 a 57.46666666666667 sec
 poisson 3 entre en contact avec 5 a 58.2 sec
 
 
 poisson 4 entre en contact avec 5 a 4.766666666666667 sec
-poisson 4 entre en contact avec 5 a 8.033333333333333 sec
-poisson 4 entre en contact avec 5 a 13.2 sec
-poisson 4 entre en contact avec 2 a 38.13333333333333 sec
-poisson 4 entre en contact avec 3 a 42.36666666666667 sec
+poisson 4 entre en contact avec 5 a 8.0 sec
+poisson 4 entre en contact avec 5 a 13.166666666666666 sec
+poisson 4 entre en contact avec 5 a 14.2 sec
+poisson 4 entre en contact avec 2 a 38.1 sec
+poisson 4 entre en contact avec 3 a 42.333333333333336 sec
 poisson 4 entre en contact avec 1 a 42.56666666666667 sec
 poisson 4 entre en contact avec 1 a 44.166666666666664 sec
-poisson 4 entre en contact avec 2 a 45.233333333333334 sec
-poisson 4 entre en contact avec 5 a 45.43333333333333 sec
-poisson 4 entre en contact avec 1 a 54.333333333333336 sec
+poisson 4 entre en contact avec 2 a 45.03333333333333 sec
+poisson 4 entre en contact avec 5 a 45.2 sec
+poisson 4 entre en contact avec 1 a 54.3 sec
+poisson 4 entre en contact avec 2 a 54.53333333333333 sec
 poisson 4 entre en contact avec 3 a 54.53333333333333 sec
-poisson 4 entre en contact avec 2 a 54.56666666666667 sec
 
 
 poisson 5 entre en contact avec 4 a 4.766666666666667 sec
-poisson 5 entre en contact avec 4 a 8.033333333333333 sec
-poisson 5 entre en contact avec 4 a 13.2 sec
+poisson 5 entre en contact avec 4 a 8.0 sec
+poisson 5 entre en contact avec 4 a 13.166666666666666 sec
+poisson 5 entre en contact avec 4 a 14.2 sec
 poisson 5 entre en contact avec 2 a 26.533333333333335 sec
 poisson 5 entre en contact avec 1 a 31.566666666666666 sec
-poisson 5 entre en contact avec 3 a 31.766666666666666 sec
+poisson 5 entre en contact avec 3 a 31.733333333333334 sec
 poisson 5 entre en contact avec 1 a 33.233333333333334 sec
 poisson 5 entre en contact avec 2 a 33.5 sec
 poisson 5 entre en contact avec 1 a 38.2 sec
-poisson 5 entre en contact avec 3 a 40.63333333333333 sec
+poisson 5 entre en contact avec 3 a 40.6 sec
 poisson 5 entre en contact avec 2 a 41.233333333333334 sec
-poisson 5 entre en contact avec 1 a 44.6 sec
-poisson 5 entre en contact avec 4 a 45.43333333333333 sec
+poisson 5 entre en contact avec 1 a 44.56666666666667 sec
+poisson 5 entre en contact avec 4 a 45.2 sec
 poisson 5 entre en contact avec 3 a 58.2 sec
-poisson 5 entre en contact avec 2 a 59.4 sec
+poisson 5 entre en contact avec 2 a 59.36666666666667 sec
 
 
+2 , 3
+
+	3.7 secondes	
+Contact 1 , 2
+
+	3.73 secondes	
+Contact 1 , 2
 
 	3.77 secondes	
 Contact 1 , 2
@@ -126,12 +133,15 @@ Contact 1 , 2
 
 	3.93 secondes	
 Contact 1 , 2
+Contact 2 , 3
 
 	3.97 secondes	
 Contact 1 , 2
+Contact 2 , 3
 
 	4.0 secondes	
 Contact 1 , 2
+Contact 2 , 3
 
 	4.03 secondes	
 Contact 1 , 2
@@ -171,21 +181,27 @@ Contact 2 , 3
 
 	4.33 secondes	
 Contact 1 , 2
+Contact 2 , 3
 
 	4.37 secondes	
 Contact 1 , 2
+Contact 2 , 3
 
 	4.4 secondes	
 Contact 1 , 2
+Contact 2 , 3
 
 	4.43 secondes	
 Contact 1 , 2
+Contact 2 , 3
 
 	4.47 secondes	
 Contact 1 , 2
+Contact 2 , 3
 
 	4.5 secondes	
 Contact 1 , 2
+Contact 2 , 3
 
 	4.53 secondes	
 Contact 1 , 2
@@ -435,6 +451,7 @@ Contact 1 , 2
 
 	6.93 secondes	
 Contact 1 , 2
+Contact 2 , 3
 
 	6.97 secondes	
 Contact 1 , 2
@@ -481,6 +498,7 @@ Contact 1 , 2
 Contact 2 , 3
 
 	7.33 secondes	
+Contact 1 , 2
 Contact 2 , 3
 
 	7.37 secondes	
@@ -539,6 +557,7 @@ Contact 2 , 3
 
 	7.97 secondes	
 Contact 2 , 3
+Contact 4 , 5
 
 	8.0 secondes	
 Contact 2 , 3
@@ -619,6 +638,7 @@ Contact 4 , 5
 
 	8.63 secondes	
 Contact 2 , 3
+Contact 4 , 5
 
 	8.67 secondes	
 Contact 2 , 3
@@ -831,6 +851,7 @@ Contact 4 , 5
 
 	10.6 secondes	
 poisson 2 change de zone A -> D
+Contact 4 , 5
 
 	10.63 secondes	
 
@@ -1020,8 +1041,10 @@ Contact 2 , 3
 	13.13 secondes	
 Contact 1 , 2
 Contact 2 , 3
+Contact 4 , 5
 
 	13.17 secondes	
+Contact 1 , 2
 Contact 2 , 3
 Contact 4 , 5
 
@@ -1067,9 +1090,11 @@ Contact 4 , 5
 
 	13.53 secondes	
 Contact 2 , 3
+Contact 4 , 5
 
 	13.57 secondes	
 Contact 2 , 3
+Contact 4 , 5
 
 	13.6 secondes	
 Contact 2 , 3
@@ -1124,12 +1149,15 @@ Contact 2 , 3
 
 	14.17 secondes	
 Contact 2 , 3
+Contact 4 , 5
 
 	14.2 secondes	
 Contact 2 , 3
+Contact 4 , 5
 
 	14.23 secondes	
 Contact 2 , 3
+Contact 4 , 5
 
 	14.27 secondes	
 Contact 2 , 3
@@ -1255,6 +1283,7 @@ Contact 1 , 2
 Contact 1 , 2
 
 	15.5 secondes	
+Contact 1 , 2
 
 	15.53 secondes	
 
@@ -1277,6 +1306,7 @@ Contact 1 , 2
 	15.83 secondes	
 
 	15.87 secondes	
+Contact 1 , 2
 
 	15.9 secondes	
 Contact 1 , 2
@@ -1380,6 +1410,7 @@ Contact 1 , 2
 
 	17.0 secondes	
 Contact 1 , 2
+Contact 2 , 3
 
 	17.03 secondes	
 Contact 1 , 2
@@ -1648,6 +1679,7 @@ Contact 2 , 3
 Contact 2 , 3
 
 	19.53 secondes	
+Contact 1 , 3
 Contact 2 , 3
 
 	19.57 secondes	
@@ -1673,6 +1705,7 @@ Contact 2 , 3
 
 	19.73 secondes	
 Contact 1 , 3
+Contact 2 , 3
 
 	19.77 secondes	
 Contact 1 , 3
@@ -1729,14 +1762,17 @@ Contact 1 , 3
 Contact 1 , 3
 
 	20.37 secondes	
+Contact 1 , 3
 
 	20.4 secondes	
+Contact 1 , 3
 
 	20.43 secondes	
 
 	20.47 secondes	
 
 	20.5 secondes	
+Contact 2 , 3
 
 	20.53 secondes	
 Contact 2 , 3
@@ -1870,9 +1906,11 @@ Contact 1 , 2
 Contact 2 , 3
 
 	21.67 secondes	
+Contact 1 , 2
 Contact 2 , 3
 
 	21.7 secondes	
+Contact 1 , 2
 Contact 2 , 3
 
 	21.73 secondes	
@@ -2161,6 +2199,7 @@ Contact 2 , 3
 Contact 2 , 3
 
 	24.9 secondes	
+Contact 1 , 2
 Contact 2 , 3
 
 	24.93 secondes	
@@ -2300,6 +2339,7 @@ Contact 2 , 3
 poisson 4 change de zone A -> B
 
 	25.87 secondes	
+Contact 1 , 3
 Contact 2 , 3
 
 	25.9 secondes	
@@ -2446,6 +2486,7 @@ Contact 2 , 3
 Contact 2 , 5
 
 	27.23 secondes	
+Contact 2 , 3
 Contact 2 , 5
 
 	27.27 secondes	
@@ -2789,6 +2830,7 @@ Contact 1 , 5
 
 	31.7 secondes	
 Contact 1 , 5
+Contact 3 , 5
 
 	31.73 secondes	
 Contact 1 , 5
@@ -2803,6 +2845,7 @@ Contact 1 , 5
 Contact 3 , 5
 
 	31.83 secondes	
+Contact 1 , 5
 Contact 3 , 5
 
 	31.87 secondes	
@@ -2988,6 +3031,7 @@ Contact 3 , 5
 	33.6 secondes	
 Contact 1 , 2
 Contact 1 , 5
+Contact 2 , 3
 Contact 2 , 5
 Contact 3 , 5
 
@@ -3000,6 +3044,7 @@ Contact 3 , 5
 
 	33.67 secondes	
 Contact 1 , 2
+Contact 1 , 5
 Contact 2 , 3
 Contact 2 , 5
 Contact 3 , 5
@@ -3037,6 +3082,7 @@ Contact 3 , 5
 	33.87 secondes	
 Contact 1 , 2
 Contact 2 , 3
+Contact 2 , 5
 Contact 3 , 5
 
 	33.9 secondes	
@@ -3091,6 +3137,7 @@ Contact 2 , 3
 Contact 3 , 5
 
 	34.23 secondes	
+Contact 1 , 2
 Contact 2 , 3
 Contact 3 , 5
 
@@ -3147,14 +3194,17 @@ Contact 2 , 3
 Contact 3 , 5
 
 	34.7 secondes	
+Contact 1 , 2
 Contact 2 , 3
 Contact 3 , 5
 
 	34.73 secondes	
+Contact 1 , 2
 Contact 2 , 3
 Contact 3 , 5
 
 	34.77 secondes	
+Contact 1 , 2
 Contact 2 , 3
 Contact 3 , 5
 
@@ -3179,6 +3229,7 @@ Contact 2 , 3
 Contact 3 , 5
 
 	34.93 secondes	
+Contact 1 , 2
 Contact 2 , 3
 
 	34.97 secondes	
@@ -3206,6 +3257,7 @@ Contact 2 , 3
 Contact 2 , 3
 
 	35.23 secondes	
+Contact 1 , 2
 Contact 2 , 3
 
 	35.27 secondes	
@@ -3416,6 +3468,7 @@ Contact 1 , 3
 Contact 2 , 3
 
 	36.73 secondes	
+Contact 1 , 2
 Contact 1 , 3
 Contact 2 , 3
 
@@ -3545,6 +3598,7 @@ Contact 2 , 3
 
 	38.07 secondes	
 Contact 2 , 3
+Contact 2 , 4
 
 	38.1 secondes	
 Contact 2 , 3
@@ -3846,6 +3900,7 @@ Contact 1 , 5
 
 	40.57 secondes	
 Contact 1 , 5
+Contact 3 , 5
 
 	40.6 secondes	
 Contact 1 , 5
@@ -3894,6 +3949,7 @@ Contact 3 , 5
 	40.93 secondes	
 Contact 1 , 5
 Contact 2 , 3
+Contact 3 , 5
 
 	40.97 secondes	
 Contact 1 , 5
@@ -4034,6 +4090,7 @@ Contact 2 , 3
 Contact 2 , 5
 
 	41.8 secondes	
+Contact 1 , 2
 Contact 1 , 5
 Contact 2 , 3
 Contact 2 , 5
@@ -4120,6 +4177,7 @@ Contact 1 , 2
 Contact 1 , 5
 Contact 2 , 3
 Contact 2 , 5
+Contact 3 , 4
 
 	42.33 secondes	
 Contact 1 , 2
@@ -4144,6 +4202,7 @@ Contact 3 , 4
 
 	42.43 secondes	
 Contact 1 , 2
+Contact 1 , 5
 Contact 2 , 3
 Contact 2 , 5
 Contact 3 , 4
@@ -4604,6 +4663,7 @@ Contact 3 , 4
 Contact 1 , 2
 Contact 1 , 3
 Contact 1 , 4
+Contact 1 , 5
 Contact 2 , 3
 Contact 2 , 5
 Contact 3 , 4
@@ -4731,6 +4791,7 @@ Contact 1 , 3
 Contact 1 , 4
 Contact 1 , 5
 Contact 2 , 3
+Contact 2 , 4
 Contact 2 , 5
 Contact 3 , 4
 
@@ -4740,6 +4801,7 @@ Contact 1 , 3
 Contact 1 , 4
 Contact 1 , 5
 Contact 2 , 3
+Contact 2 , 4
 Contact 2 , 5
 Contact 3 , 4
 
@@ -4749,6 +4811,7 @@ Contact 1 , 3
 Contact 1 , 4
 Contact 1 , 5
 Contact 2 , 3
+Contact 2 , 4
 Contact 2 , 5
 Contact 3 , 4
 
@@ -4758,6 +4821,7 @@ Contact 1 , 3
 Contact 1 , 4
 Contact 1 , 5
 Contact 2 , 3
+Contact 2 , 4
 Contact 2 , 5
 Contact 3 , 4
 
@@ -4767,6 +4831,7 @@ Contact 1 , 3
 Contact 1 , 4
 Contact 1 , 5
 Contact 2 , 3
+Contact 2 , 4
 Contact 2 , 5
 Contact 3 , 4
 
@@ -4776,17 +4841,21 @@ Contact 1 , 3
 Contact 1 , 4
 Contact 1 , 5
 Contact 2 , 3
+Contact 2 , 4
 Contact 2 , 5
 Contact 3 , 4
+Contact 4 , 5
 
 	45.2 secondes	
 Contact 1 , 2
 Contact 1 , 3
 Contact 1 , 4
+Contact 1 , 5
 Contact 2 , 3
 Contact 2 , 4
 Contact 2 , 5
 Contact 3 , 4
+Contact 4 , 5
 
 	45.23 secondes	
 Contact 1 , 2
@@ -4796,6 +4865,7 @@ Contact 2 , 3
 Contact 2 , 4
 Contact 2 , 5
 Contact 3 , 4
+Contact 4 , 5
 
 	45.27 secondes	
 Contact 1 , 2
@@ -4805,6 +4875,7 @@ Contact 2 , 3
 Contact 2 , 4
 Contact 2 , 5
 Contact 3 , 4
+Contact 4 , 5
 
 	45.3 secondes	
 Contact 1 , 2
@@ -4814,6 +4885,7 @@ Contact 2 , 3
 Contact 2 , 4
 Contact 2 , 5
 Contact 3 , 4
+Contact 4 , 5
 
 	45.33 secondes	
 Contact 1 , 2
@@ -4823,6 +4895,7 @@ Contact 2 , 3
 Contact 2 , 4
 Contact 2 , 5
 Contact 3 , 4
+Contact 4 , 5
 
 	45.37 secondes	
 Contact 1 , 2
@@ -4830,7 +4903,9 @@ Contact 1 , 3
 Contact 1 , 4
 Contact 2 , 3
 Contact 2 , 4
+Contact 2 , 5
 Contact 3 , 4
+Contact 4 , 5
 
 	45.4 secondes	
 Contact 1 , 2
@@ -4838,6 +4913,7 @@ Contact 1 , 3
 Contact 1 , 4
 Contact 2 , 3
 Contact 2 , 4
+Contact 2 , 5
 Contact 3 , 4
 Contact 4 , 5
 
@@ -4847,6 +4923,7 @@ Contact 1 , 3
 Contact 1 , 4
 Contact 2 , 3
 Contact 2 , 4
+Contact 2 , 5
 Contact 3 , 4
 Contact 4 , 5
 
@@ -4862,6 +4939,7 @@ Contact 4 , 5
 	45.5 secondes	
 Contact 1 , 2
 Contact 1 , 3
+Contact 1 , 4
 Contact 2 , 3
 Contact 2 , 4
 Contact 3 , 4
@@ -5045,21 +5123,25 @@ Contact 4 , 5
 
 	46.27 secondes	
 Contact 1 , 2
+Contact 1 , 3
 Contact 2 , 3
 Contact 2 , 4
 Contact 3 , 4
+Contact 4 , 5
 
 	46.3 secondes	
 Contact 1 , 2
 Contact 2 , 3
 Contact 2 , 4
 Contact 3 , 4
+Contact 4 , 5
 
 	46.33 secondes	
 Contact 1 , 2
 Contact 2 , 3
 Contact 2 , 4
 Contact 3 , 4
+Contact 4 , 5
 
 	46.37 secondes	
 Contact 1 , 2
@@ -5264,6 +5346,7 @@ Contact 3 , 4
 	47.6 secondes	
 Contact 2 , 3
 Contact 2 , 4
+Contact 3 , 4
 
 	47.63 secondes	
 Contact 2 , 3
@@ -5486,6 +5569,7 @@ Contact 2 , 4
 Contact 2 , 4
 
 	49.87 secondes	
+Contact 2 , 4
 
 	49.9 secondes	
 poisson 3 change de zone B -> C
@@ -5656,6 +5740,7 @@ poisson 4 change de zone B -> C
 	52.57 secondes	
 
 	52.6 secondes	
+Contact 1 , 3
 
 	52.63 secondes	
 Contact 1 , 3
@@ -5738,6 +5823,7 @@ Contact 2 , 3
 Contact 2 , 3
 
 	53.5 secondes	
+Contact 2 , 3
 
 	53.53 secondes	
 
@@ -5785,6 +5871,7 @@ poisson 5 change de zone E -> F
 	54.23 secondes	
 
 	54.27 secondes	
+Contact 1 , 4
 
 	54.3 secondes	
 Contact 1 , 4
@@ -5802,11 +5889,13 @@ Contact 1 , 4
 Contact 1 , 4
 
 	54.47 secondes	
+Contact 1 , 3
 Contact 1 , 4
 
 	54.5 secondes	
 Contact 1 , 3
 Contact 1 , 4
+Contact 2 , 4
 Contact 3 , 4
 
 	54.53 secondes	
@@ -5912,12 +6001,14 @@ Contact 2 , 4
 Contact 3 , 4
 
 	55.1 secondes	
+Contact 1 , 2
 Contact 1 , 3
 Contact 1 , 4
 Contact 2 , 4
 Contact 3 , 4
 
 	55.13 secondes	
+Contact 1 , 2
 Contact 1 , 3
 Contact 1 , 4
 Contact 2 , 4
@@ -5980,12 +6071,14 @@ Contact 2 , 4
 Contact 3 , 4
 
 	55.43 secondes	
+Contact 1 , 2
 Contact 1 , 3
 Contact 1 , 4
 Contact 2 , 4
 Contact 3 , 4
 
 	55.47 secondes	
+Contact 1 , 2
 Contact 1 , 3
 Contact 1 , 4
 Contact 2 , 4
@@ -6186,9 +6279,11 @@ Contact 1 , 4
 
 	57.43 secondes	
 Contact 1 , 4
+Contact 2 , 3
 
 	57.47 secondes	
 Contact 1 , 4
+Contact 2 , 3
 
 	57.5 secondes	
 Contact 1 , 4
@@ -6381,6 +6476,7 @@ Contact 1 , 4
 Contact 3 , 5
 
 	59.23 secondes	
+Contact 1 , 4
 Contact 3 , 5
 
 	59.27 secondes	
@@ -6390,6 +6486,7 @@ Contact 3 , 5
 Contact 3 , 5
 
 	59.33 secondes	
+Contact 2 , 5
 Contact 3 , 5
 
 	59.37 secondes	
@@ -6426,6 +6523,7 @@ Contact 3 , 5
 
 	59.63 secondes	
 Contact 2 , 5
+Contact 3 , 5
 
 	59.67 secondes	
 Contact 2 , 5
